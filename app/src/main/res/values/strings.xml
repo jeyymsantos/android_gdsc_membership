@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GDSC NU Baliwag</string>
+    <string name="agreement">I have read, understood, and accepted membership rules for Google Developer Student Clubs - NU Baliwag</string>
+    <string name="select">Section</string>
+    <string name="registerNow">Do not have an account? Register now!</string>
+    <string name="login">Login</string>
+</resources>
